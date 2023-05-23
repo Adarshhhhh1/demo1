@@ -5,6 +5,7 @@ class S{
 	}
 	void meth(int a , int b, int c){
 		System.out.println(" A + B + C = "+(a+b+c));
+		System.out.println("hello");
 	}
 }
 
